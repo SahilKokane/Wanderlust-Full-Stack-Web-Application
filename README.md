@@ -1,4 +1,6 @@
 Wanderlust - Full Stack Web Application 🚀
+
+
 📝 Overview
 This is a robust, end-to-end vacation rental application (inspired by Airbnb) built using the MERN stack logic (Node, Express, MongoDB). It features an MVC Architecture to ensure scalable code and demonstrates expertise in server-side rendering and RESTful API integration.
 
